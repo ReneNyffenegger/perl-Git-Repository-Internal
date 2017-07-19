@@ -1,0 +1,12 @@
+Makefile
+Makefile.old
+Build
+Build.bat
+META.*
+MYMETA.*
+.build/
+_build/
+blib/
+pod2htm*.tmp
+pm_to_blib
+GraphViz-Diagram-ClassDiagram*.tar.gz

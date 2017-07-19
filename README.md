@@ -1,2 +1,1 @@
-# perl-Git-Repository-Internal
-Perl module Git::Repository::Internal
+# perl module Git::Repository::Internal
